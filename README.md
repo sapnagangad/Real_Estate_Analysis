@@ -93,7 +93,4 @@ Screenshots of key dashboards are available in the `Dashboard/` folder.
 **Sapna Gangad**  
 Data Analyst | Power BI Developer  
 
----
 
-## 📄 License
-This project is licensed under the MIT License.
