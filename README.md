@@ -69,7 +69,7 @@ The dataset includes:
 ## 📷 Dashboard Preview
 Screenshots of key dashboards are available in the `Dashboard/` folder.
 
-[View Dashboard Screenshots](https://www.gssprojects.in/wp-content/uploads/2022/09/real-estate-company-in-Mysore.jpg)
+[View Dashboard Screenshots](https://github.com/sapnagangad/Real_Estate_Analysis/blob/main/Dashboards/Sales%20trend%20by%20property.png)
 
 ---
 
